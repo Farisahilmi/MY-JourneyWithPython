@@ -1,4 +1,6 @@
-"""fadjkfafjkah eiuofaeybfiuaesbyfuiaeyfbcaoif"""
+x = {1,2,3}
+y = {3,4,5}
 
+x.union(y)
 
-"""disini adalagi nih perubbahan tinggal push lagi ke github"""
+print(x)
