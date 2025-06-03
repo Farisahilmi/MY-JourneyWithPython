@@ -1,0 +1,97 @@
+Roadmap Lengkap Belajar Matplotlib Python
+Level 1: Pengenalan Dasar Matplotlib
+Apa itu Matplotlib? Fungsi dan kegunaan
+
+Instalasi Matplotlib (pip install matplotlib)
+
+Struktur dasar pembuatan grafik:
+
+Import library (import matplotlib.pyplot as plt)
+
+Membuat plot pertama (plot garis sederhana)
+
+Menampilkan plot dengan plt.show()
+
+Memahami konsep figure, axis, dan plot
+
+Level 2: Membuat Plot Dasar
+Plot garis (Line plot)
+
+Scatter plot (plot titik)
+
+Bar chart (diagram batang)
+
+Histogram (distribusi data)
+
+Pie chart (diagram lingkaran)
+
+Menambahkan label sumbu X dan Y (plt.xlabel(), plt.ylabel())
+
+Menambahkan judul grafik (plt.title())
+
+Menambahkan legenda (plt.legend())
+
+Level 3: Kustomisasi Plot
+Mengubah warna, gaya garis, dan marker
+
+Mengatur ukuran figure (plt.figure(figsize=(width, height)))
+
+Menambahkan grid (plt.grid(True))
+
+Mengatur limit sumbu (plt.xlim(), plt.ylim())
+
+Menambahkan teks dan anotasi di grafik (plt.text(), plt.annotate())
+
+Mengatur ticks dan tick labels
+
+Level 4: Multiple Plots dan Subplots
+Membuat lebih dari satu plot dalam satu figure (plt.subplot())
+
+Mengatur layout subplot (plt.subplots())
+
+Plot overlay (multiple line dalam satu axis)
+
+Membuat grafik dengan dua sumbu Y (dual axis)
+
+Level 5: Grafik Lanjutan
+Grafik boxplot
+
+Grafik heatmap sederhana dengan imshow()
+
+Grafik stack plot
+
+Grafik area
+
+Plot polar (plot dalam koordinat polar)
+
+Plot 3D sederhana dengan mpl_toolkits.mplot3d
+
+Level 6: Integrasi dengan Library Lain
+Plot data dari numpy arrays
+
+Plot data dari pandas DataFrame dan Series (df.plot())
+
+Menyimpan gambar plot ke file (PNG, JPG, SVG, PDF) dengan plt.savefig()
+
+Level 7: Styling dan Theming
+Menggunakan style bawaan Matplotlib (plt.style.use('ggplot'), dll)
+
+Membuat custom style
+
+Mengatur fonts, warna background, dan grid style
+
+Level 8: Interaktif dan Animasi
+Membuat plot interaktif sederhana dengan Matplotlib
+
+Dasar animasi menggunakan matplotlib.animation.FuncAnimation
+
+Menghubungkan Matplotlib dengan GUI (Tkinter, PyQt)
+
+Level 9: Best Practices dan Tips
+Cara menulis kode plotting yang rapi dan modular
+
+Dokumentasi resmi dan membaca referensi Matplotlib
+
+Debugging error umum di Matplotlib
+
+Optimasi plot untuk presentasi dan publikasi
